@@ -5,8 +5,8 @@
 %global crate tokio-core
 
 Name:           rust-%{crate}
-Version:        0.1.17
-Release:        12%{?dist}
+Version:        0.1.18
+Release:        1%{?dist}
 Summary:        Core I/O and event loop primitives for asynchronous I/O in Rust
 
 # Upstream license specification: MIT/Apache-2.0
